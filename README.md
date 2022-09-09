@@ -5,7 +5,7 @@
   <a>
     
 - 🌱 Estudando Linux Experience
-- 👯 Bootcamp Santander FullSteck developer 2022 (concluído).
+- 👯 Bootcamp Santander FullStack developer 2022 (concluído).
 - 😄 Pronome: Ela/dela
     
   </a>
